@@ -1,4 +1,11 @@
-# Team Wakzip
+# 왁타버스와 나를 잇다.
 우리의 왁타버스, 우리의 왁물원을 만들어가는 Team Wakzip.
 
-Team Wakzip 공식 깃허브 계정입니다.
+Team Wakzip 공식 깃허브 계정
+
+```
+┌ 프로젝트
+├┬ Wataverse Videos
+│└ 왁타버스의 동영상을 한 곳에서! 클릭 한번으로 왁타버스 영상들을 찾아보세요!
+└
+```
